@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "SURAJ",
+      "lastName": "YADAV",
+      "email": "SURAJ.RAMA.YADAV@GMAIL.COM",
+      "phone": "8433564425",
+      "salary": "30000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
