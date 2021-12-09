@@ -2,11 +2,19 @@
   "posts": [
     {
       "id": 1,
+      "firstName": "ANKIT",
+      "lastName": "YADAV",
+      "email": "ANKIT.RAMA.YADAV@GMAIL.COM",
+      "phone": "9594371397",
+      "salary": "20000"
+    },
+    {
+      "id": 2,
       "firstName": "SURAJ",
       "lastName": "YADAV",
-      "email": "SURAJ.RAMA.YADAV@GMAIL.COM",
-      "phone": "8433564425",
-      "salary": "30000"
+      "email": "suraj.rama.yadav@gmail.com",
+      "phone": "8433564452",
+      "salary": "60000"
     }
   ],
   "comments": [],
