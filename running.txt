@@ -1,0 +1,3 @@
+open two terminal and execute these commands.
+npm start
+json-server --watch db.json
